@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\bin\Debug\Assault Cube Trainer.exe.config
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\bin\Debug\Assault Cube Trainer.exe
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\bin\Debug\Assault Cube Trainer.pdb
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\bin\Debug\Assault Cube Trainer.xml
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.vbprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault_Cube_Trainer.Form1.resources
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault_Cube_Trainer.Resources.resources
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.vbproj.GenerateResource.Cache
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.exe
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.xml
+C:\Users\asus\source\repos\Assault Cube Trainer\Assault Cube Trainer\obj\Debug\Assault Cube Trainer.pdb
